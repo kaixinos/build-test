@@ -1,4 +1,4 @@
-name: B3-build-all-desktop-pick
+name: C3-build-all-desktop-pick
 
 on:
   workflow_dispatch:
